@@ -1,5 +1,13 @@
 ### Compiled Source
 *.class
+src/*.class
+src/*/*.class
 
 ### MacOS Generated Files
 .DS_Store
+
+### Project files
+target
+.settings
+.classpath
+.project
